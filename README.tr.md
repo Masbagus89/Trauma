@@ -1,4 +1,4 @@
-# Trojan'ı Sunucusuz CF Çalışanları ve Sayfaları kullanarak dağıtın
+# Sunucusuz CF Çalışanları ve Sayfaları kullanarak Truva Atı'nı dağıtın
 
 🇮🇷[Farsça](README.fa.md)| 🇹🇷[Türkçe](README.tr.md)
 
@@ -67,7 +67,7 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
     -   erişim`https://[YOUR-WORKERS-URL]/[password]`Abonelik içeriğini alın.
     -   Örneğin`https://vless.trauma.workers.dev/auto`Bu sizin evrensel uyarlanabilir abonelik adresinizdir.
     -   Örneğin`https://vless.trauma.workers.dev/auto?sub`Base64 abonelik formatı; PassWall, SSR+ vb. için uygundur.
-    -   Örneğin`https://vless.trauma.workers.dev/auto?clash` Clash subscription format, suitable for OpenClash, etc.
+    -   Örneğin`https://vless.trauma.workers.dev/auto?clash`OpenClash vb. için uygun Clash abonelik formatı.
     -   Örneğin`https://vless.trauma.workers.dev/auto?sb`singbox abonelik formatı, singbox vb. için uygundur.
 
 4.  Çalışanlara özel bir alan adı bağlayın:
@@ -99,7 +99,7 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
 
 3.  Abonelik içeriğine erişin:
     -   erişim`https://[YOUR-PAGES-URL]/[password]`Abonelik içeriği mevcuttur.
-    -   Örneğin`https://trauma.pages.dev/auto` This is your universal adaptive subscription address.
+    -   Örneğin`https://trauma.pages.dev/auto`Bu sizin evrensel uyarlanabilir abonelik adresinizdir.
     -   Örneğin`https://trauma.pages.dev/auto?sub`Base64 abonelik formatı; PassWall, SSR+ vb. için uygundur.
     -   Örneğin`https://trauma.pages.dev/auto?clash`OpenClash vb. için uygun Clash abonelik formatı.
     -   Örneğin`https://trauma.pages.dev/auto?sb`singbox abonelik formatı, singbox vb. için uygundur.
