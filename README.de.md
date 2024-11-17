@@ -4,7 +4,7 @@
 
 🇬🇧[Englisch](README.md)|  🇩🇪[Deutschland](README.de.md)
 
-Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend auf der Originalversion wurde es so modifiziert, dass es Trojaner-Konfigurationsinformationen anzeigt und diese in Abonnementinhalte umwandelt. Mit diesem Skript können Sie mithilfe der Online-Konfiguration problemlos Trojaner-Konfigurationsinformationen in Tools wie Clash oder Singbox konvertieren.
+Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend auf der Originalversion wurde es so geändert, dass es Trojaner-Konfigurationsinformationen anzeigt und diese in Abonnementinhalte umwandelt. Mit diesem Skript können Sie mithilfe der Online-Konfiguration problemlos Trojaner-Konfigurationsinformationen in Tools wie Clash oder Singbox konvertieren.
 
 [TG-Kanal](https://t.me/F_NiREvil)
 
@@ -132,7 +132,7 @@ Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend 
 | PROXYIP                                                                                            | [klicken Sie hier](https://github.com/NiREvil/vless/edit/main/sub/ProxyIP.md)oder Verwendung`ni.radically.pro` | Alternativer Proxy-Knoten für den Zugriff auf CFCDN-Sites (unterstützt mehrere ProxyIPs mit 1 oder 2 Zeilenumbrüchen zwischen ProxyIPs)) |
 | HINZUFÜGEN                                                                                         | [zula.ir,www.csgo.com:2087](http://zula.ir,www.csgo.com:2087)                                                  | Lokaler bevorzugter Domänenname/bevorzugte IP (unterstützt mehrere Elemente`,`oder Zeilenvorschub als Intervall)                         |
 | HINZUFÜGEN                                                                                         | <https://raw.githubusercontent.com/NiREvil/Trauma/main/cleanIPs.txt>                                           | Kein Grund zur Erklärung, jeder versteht es                                                                                              |
-| SUBAPI                                                                                             | subapi.fxxk.dedyn.io                                                                                           | Clash, Singbox usw. Abonnementkonvertierungs-Backend                                                                                     |
+| subapi                                                                                             | subapi.fxxk.dedyn.io                                                                                           | Clash, Singbox usw. Abonnementkonvertierungs-Backend                                                                                     |
 | UNTERNAME                                                                                          | REvil                                                                                                          | Abonnementname                                                                                                                           |
 | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256) | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)             | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)                                       |
 
@@ -158,6 +158,6 @@ Dies ist ein Skript, das auf der Cloudflare Worker-Plattform basiert. Basierend 
 
 # dankbar
 
-[ca110us](https://github.com/ca110us/epeius)\|[Sterilisieren Sie es](https://github.com/3Kmfi6HP/EDtunnel/tree/trojan)\|[zizifn](https://github.com/zizifn/edgetunnel)\|[Jemen 178](https://github.com/emn178/js-sha256)\|[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)\|[Shegs1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
+[ca110us](https://github.com/ca110us/epeius)\|[Sterilisieren Sie es](https://github.com/3Kmfi6HP/EDtunnel/tree/trojan)\|[zizifn](https://github.com/zizifn/edgetunnel)\|[Jemen 178](https://github.com/emn178/js-sha256)\|[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)\|[Shegs 1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
