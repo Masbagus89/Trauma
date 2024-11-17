@@ -47,7 +47,7 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
 
     -   3\. satırı değiştir`password`Kendinize göre değiştirin**şifre**
 
-    -   Alternatif olarak, doğrudan dağıtmak için aşağıdaki düğmeye tıklayabilirsiniz.
+    -   Alternatif olarak doğrudan dağıtmak için aşağıdaki düğmeye tıklayabilirsiniz.
 
     [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/NiREvil/Trauma)
 
@@ -67,7 +67,7 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
     -   erişim`https://[YOUR-WORKERS-URL]/[password]`Abonelik içeriğini alın.
     -   Örneğin`https://vless.trauma.workers.dev/auto`Bu sizin evrensel uyarlanabilir abonelik adresinizdir.
     -   Örneğin`https://vless.trauma.workers.dev/auto?sub`Base64 abonelik formatı; PassWall, SSR+ vb. için uygundur.
-    -   Örneğin`https://vless.trauma.workers.dev/auto?clash`OpenClash vb. için uygun Clash abonelik formatı.
+    -   Örneğin`https://vless.trauma.workers.dev/auto?clash` Clash subscription format, suitable for OpenClash, etc.
     -   Örneğin`https://vless.trauma.workers.dev/auto?sb`singbox abonelik formatı, singbox vb. için uygundur.
 
 4.  Çalışanlara özel bir alan adı bağlayın:
@@ -99,7 +99,7 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
 
 3.  Abonelik içeriğine erişin:
     -   erişim`https://[YOUR-PAGES-URL]/[password]`Abonelik içeriği mevcuttur.
-    -   Örneğin`https://trauma.pages.dev/auto`Bu sizin evrensel uyarlanabilir abonelik adresinizdir.
+    -   Örneğin`https://trauma.pages.dev/auto` This is your universal adaptive subscription address.
     -   Örneğin`https://trauma.pages.dev/auto?sub`Base64 abonelik formatı; PassWall, SSR+ vb. için uygundur.
     -   Örneğin`https://trauma.pages.dev/auto?clash`OpenClash vb. için uygun Clash abonelik formatı.
     -   Örneğin`https://trauma.pages.dev/auto?sb`singbox abonelik formatı, singbox vb. için uygundur.
@@ -128,11 +128,11 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
 
 | değişken adı                                                                                       | Örnek                                                                                                     | Açıklama                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| ŞİFRE                                                                                              | otomatik                                                                                                  | Her değeri alabilir                                                                                                                           |
+| ŞİFRE                                                                                              | oto                                                                                                       | Her değeri alabilir                                                                                                                           |
 | PROXYIP                                                                                            | [buraya tıklayın](https://github.com/NiREvil/vless/edit/main/sub/ProxyIP.md)veya Kullan`ni.radically.pro` | CFCDN sitelerine erişim için alternatif proxy düğümü (ProxyIP'ler arasında 1 veya 2 satır aralığı bulunan birden fazla ProxyIP'yi destekler)) |
 | EKLEMEK                                                                                            | [zula.ir,www.csgo.com:2087](http://zula.ir,www.csgo.com:2087)                                             | Yerel tercih edilen alan adı/tercih edilen IP (birden fazla öğeyi destekler)`,`veya aralık olarak satır besleme)                              |
 | EKLEMEK                                                                                            | <https://raw.githubusercontent.com/NiREvil/Trauma/main/cleanIPs.txt>                                      | Açıklamaya gerek yok herkes anlıyor                                                                                                           |
-| SUBAPI                                                                                             | subapi.fxxk.dedyn.io                                                                                      | Clash, singbox vb. abonelik dönüşümü arka ucu                                                                                                 |
+| subapi                                                                                             | subapi.fxxk.dedyn.io                                                                                      | Clash, singbox vb. abonelik dönüşümü arka ucu                                                                                                 |
 | ALT AD                                                                                             | kötü                                                                                                      | Abonelik adı                                                                                                                                  |
 | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256) | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)        | ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)                                            |
 
@@ -158,6 +158,6 @@ Bu, Cloudflare Worker platformunu temel alan bir komut dosyasıdır. Orijinal ve
 
 # minnettar
 
-[ca110us](https://github.com/ca110us/epeius)\|[Sterilize et](https://github.com/3Kmfi6HP/EDtunnel/tree/trojan)\|[zizifn](https://github.com/zizifn/edgetunnel)\|[Yemen 178](https://github.com/emn178/js-sha256)\|[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)\|[Shegs1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
+[ca110us](https://github.com/ca110us/epeius)\|[Sterilize et](https://github.com/3Kmfi6HP/EDtunnel/tree/trojan)\|[zizifn](https://github.com/zizifn/edgetunnel)\|[Yemen 178](https://github.com/emn178/js-sha256)\|[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)\|[Shegs 1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
